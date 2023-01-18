@@ -1,7 +1,5 @@
 // ----------------------------------------------------------- 
-// NAME : Caleb Melnychenko                User ID: chmelnyc 
-// DUE DATE : 04/17/2020                                       
-// PROGRAM ASSIGNMENT 5                                        
+// NAME : Caleb Melnychenko                                                  
 // FILE NAME : thread.h            
 // PROGRAM PURPOSE :                                           
 //           This class has the framework for the threads
