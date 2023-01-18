@@ -7,7 +7,7 @@ TMLIB = /local/eit-linux/apps/ThreadMentor/Visual/libthreadclass.a
 TMLIB_NV = /local/eit-linux/apps/ThreadMentor/NoVisual/libthreadclass.a
 
 OBJ_FILE = thread.o thread-main.o
-EXE_FILE = prog5
+EXE_FILE = prog
 
 ${EXE_FILE}: ${OBJ_FILE}
 	${CC} ${FLAGS} -o ${EXE_FILE} ${OBJ_FILE} ${TMLIB} -lpthread
